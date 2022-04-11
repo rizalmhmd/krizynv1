@@ -18,7 +18,7 @@ global.linkGC = ['https://chat.whatsapp.com/KTUF5TbtlWu4vOFnlDqCwg', ''] // gant
 global.owner = ['6281387601389','6281333154367'] // Put your number here //owner eval
 global.kontak = ['6281387601389','6281333154367'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6281387601389','6281333154367'] // Premium user has unlimited limit
+global.prems = ['62895328590064','62895327934887'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -67,15 +67,15 @@ namakontak2 = '𝚐𝚝𝚊𝚞 𝚜𝚊𝚑𝚊'
 //kasihcaption = `Kalau udah dikasih, bilang apa?`
 
 // Sticker WM
-global.packname = 'ROZZxBOTZ' // ganti aja
-global.author = 'Zall' // ganti aja
+global.packname = '𝚁𝙾𝚉𝚉𝚡𝙱𝙾𝚃𝚉' // ganti aja
+global.author = '𝙕𝙖𝙡𝙡' // ganti aja
 
 //yyy
 '𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
 footer = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
 footer = '\𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
-namabot = 'ROZZxBOTZ'
-namalu = 'Zall'
+namabot = '𝚁𝙾𝚉𝚉𝚡𝙱𝙾𝚃𝚉'
+namalu = '𝙕𝙖𝙡𝙡'
 
 
 // 
