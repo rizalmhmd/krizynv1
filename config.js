@@ -21,6 +21,7 @@ global.mods = ['0'] // Want some help?
 global.prems = ['62895328590064','62895327934887'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
+  amel: 'https://melcanz.com',
   hardianto: 'https://hardianto-chan.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
@@ -34,19 +35,20 @@ global.APIs = { // API Prefix
   vhtear: 'https://api.vhtear.com',
   lolhum: 'https://api.lolhuman.xyz',
   fxc7: 'https://fxc7-api.herokuapp.com',
-  bx: 'https://bx-hunter.herokuapp.com',
+  bx: 'https://bx-hunter.herokuapp.com', 
 
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
+  'https://melcanz.com' : 'mAegnBTN',
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://pencarikode.xyz': 'APIKEY',
-  'https://api.xteam.xyz': 'HIRO',
+  'https://api.xteam.xyz': '9db5a5373433c015',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'nyyxz-bot',
-  'https://api.lolhuman.xyz': 'ed6c4f2c72b6f92f7d201464',
+  'https://api.lolhuman.xyz': 'Deffbotz',
   'https://api.vhtear.com': 'sayahafiz',
   'https://fxc7-api.herokuapp.com': 'uN8rsK4g',
   'https://api.justaqul.xyz': '5kbUqdG00OXelFYx',
@@ -56,7 +58,7 @@ global.APIKeys = { // APIKey nya disini
 
 lolkey = 'Deffbotz'
 zekskey = 'apivinz'
-xteamkey = 'Dawnfrostkey'
+xteamkey = '9db5a5373433c015' 
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
