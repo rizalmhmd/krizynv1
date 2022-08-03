@@ -11,14 +11,14 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'https://instagram.com/mhdfakri_'
+gc1 = 'https://instagram.com/zallzall02'
 gc2 = 'https://www.youtube.com/c/HokenBeusz'
 gc3 = 'https://vt.tiktok.com/ZSeCJHbfA/'
 global.linkGC = ['https://chat.whatsapp.com/KTUF5TbtlWu4vOFnlDqCwg', ''] // ganti jadi group lu
-global.owner = ['6281387601389','6281333154367'] // Put your number here //owner eval
-global.kontak = ['6281387601389','6281333154367'] //Ketika ada yang ngetik #owner
+global.owner = ['6281393533847','6281333154367'] // Put your number here //owner eval
+global.kontak = ['6281393533847','6281333154367'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['62895328590064','62895327934887'] // Premium user has unlimited limit
+global.prems = ['6281393533847','6281333154367'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
   amel: 'https://melcanz.com',
@@ -48,7 +48,7 @@ global.APIKeys = { // APIKey nya disini
   'https://api.xteam.xyz': '9db5a5373433c015',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'nyyxz-bot',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://api.lolhuman.xyz': 'azzbot',
   'https://api.vhtear.com': 'sayahafiz',
   'https://fxc7-api.herokuapp.com': 'uN8rsK4g',
   'https://api.justaqul.xyz': '5kbUqdG00OXelFYx',
@@ -56,15 +56,15 @@ global.APIKeys = { // APIKey nya disini
   'https://bx-hunter.herokuapp.com': 'Ikyy69',
 }
 
-lolkey = 'Deffbotz'
+lolkey = 'azzbot'
 zekskey = 'apivinz'
 xteamkey = '9db5a5373433c015' 
 //xteam        MIMINETBOT
-namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
+namaig = 'zallzall03'
+namagithub = 'rizalmhmd'
 kasihcaption = `*Kalau udah dikasih, bilang apa?*`
-namakontak1 = '𝙕𝙖𝙡𝙡'
-namakontak2 = '𝚐𝚝𝚊𝚞 𝚜𝚊𝚑𝚊'
+namakontak1 = '𝚉𝚊𝚕𝚕'
+namakontak2 = '𝙕𝘼𝙇𝙇𝙓𝘽𝙊𝙏𝙕'
 
 //kasihcaption = `Kalau udah dikasih, bilang apa?`
 
